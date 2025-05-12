@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.confetti-button {
+    background: wheat;
+    color: brown;
+    font-family: "Lora";
+    font-weight: bold;
+    font-size: 32px;
+    padding: 32px 48px;
+    border-radius: 32px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 4px 4px black;
+}
