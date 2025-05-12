@@ -12,14 +12,13 @@ Simple confetti effect with sound.
 
 -   Basic button interactivity with JavaScript
 
--   No external libraries or frameworks
-
 -   Easy to customize
 
 ## 🛠️ Technologies Used
 
 -   HTML, CSS
 -   Javascript
+-   Confetti.js
 
 ## 📁 Project Structure
 
