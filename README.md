@@ -30,6 +30,7 @@ confetti-button/
 │   ├── confetti-pop-sound.mp3
 │   └── demo.gif
 ├── index.html
+├── LICENSE
 ├── README.md
 ├── style.css
 └── script.js
